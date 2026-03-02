@@ -1,8 +1,10 @@
 # Cipher SQL Studio
 
+![Walkthrough Video](./frontend/public/walkthrough%20video.gif)
+
 this is my submission for the full stack assignment. it's a simple web app that lets you run real sql queries against sample databases right in the browser. 
 
-I built it using react for the frontend and express/postgres/mongo for the backend. kept the code as simple as possible without overengineering it.
+I built it using react for the frontend and express/postgres/mongo for the backend.
 
 ## how to run it
 
